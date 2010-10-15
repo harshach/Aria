@@ -1,0 +1,124 @@
+Aria App OS X Informal Spec Sheet
+
+Authors / Developers
+Peter D.
+Harsha C.
+
+Version 0.0.1
+Last updated: Oct 14 2010
+
+1.	Overview
+2.	Core Functionality
+3.	Feature list
+4.	Milestones
+
+1. Overview
+
+This project comes from a lack of a lightweight yet flexible music player for the OS X platform. With this project we hope to achieve a player that will be able to have a small memory / processor footprint and have extensive playlist capabilities. Post-functional release, we should work towards incorporating tagging functionality.  Our primary focus will not be to support all music codecs. Our goal is to reach mass-market adoption similar to adium and vlc.
+
+Project Details:
+
+Name: Aria (App)
+
+Github: http://github.com/defun/Aria
+
+Language: Objective-C / Cocoa Framework
+
+Website:
+
+[web link here]
+
+
+2. Core Functionality
+
+Primary goals of Aria App are:
+i. Music playback
+	a. Should support gapless playback
+	b. Basic music controls e.g. play, pause, next, stop
+	c. Mp3 playback. We need to provide infrastructure for additional codecs but they will not be our primary focus
+	d. Volume and volume normalization (through Replay gain)
+ii. Playlist management
+	a. Should support custom playlists as well as directory-based playlists
+	b. Auto playlists, where we monitor directories for changes such as adding / deleting of songs and reflect that accordingly
+	c. Sorting display should be filtered by ID3 tags
+		i. Users should be able to add their own custom sorting filters
+	d. Unicode (UTF-8) Support
+iii. Player misc. features
+	a. Should support album art
+	b. Views
+		i. Should offer a lite view and a standard view
+		ii. Toolbar should be able to be customized
+	c. 64 bit
+
+3. Feature List
+
+Stuff that isn’t core to the program:
+i. Codec support
+	a. FLAC
+	b.Ogg Vorbis
+	c. AAC
+	d. CD Audio
+ii. Conversion, WAV to Mp3
+iii. Keyboard shortcuts
+iv. Advanced tagging capabilities
+	a. File rename based on tags
+	b. Modifying and addition of tag metadata
+v. Extensible for third party developer (?)
+
+4. Milestones
+
+This is just a rough list of what we should strive to achieve with each ‘release’. These are what our milestones should be and they will probably be changing all the time:
+
+0.0.1:
+
+Begin of project.
+
+
+0.1.0:
+
+-	Flesh out interface design for standard version.
+-	Main App runs
+
+0.2.0:
+
+-	Standard interface finalized
+-	Lite interface in progress
+-	Loading mp3 functionality
+-	Basic stop play functionality
+
+0.3.0:
+-	Lite interface finished
+-	Basic playlist functionality
+-	Load multiple mp3 files and can play any of them
+
+0.4.0:
+-	Sophisticated playlist
+-	Refactor / Optimization and code cleanup
+
+0.5.0:
+-	Interface is fully functional
+-	Volume support
+-	Working product
+
+0.6.0:
+-	First round of bug fixes
+-	Performance
+-	Playlist functionality should be near 100%
+o	Playlist filtering, but not auto playlist
+
+0.7.0:
+-	Alpha build, can be distributed for select testers
+-	Misc. features
+
+0.8.0:
+-	Beta build, wider distribution
+-	Feature freeze until 1.0 release
+-	Playlist should be 100% compelete
+
+0.9.0: 
+-	App here should be in a almost gold stage
+-	Fix bugs
+-	Performance tweaks
+
+1.0.0:
+-	Out of beta stage
