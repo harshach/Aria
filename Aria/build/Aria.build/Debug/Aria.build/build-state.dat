@@ -1,0 +1,196 @@
+TAria
+v7
+r0
+t309069486.025894
+cCheck dependencies
+cProcessInfoPlistFile /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist Aria-Info.plist
+cCopyStringsFile /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch Aria_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o /Users/chintala/Code/Aria/Aria/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o /Users/chintala/Code/Aria/Aria/AriaAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria normal x86_64
+cTouch /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CA9353900000000000000EE
+t1286157625
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chintala/Code/Aria/Aria/AriaAppDelegate.h
+c000000004CBBCF1D000000000000013D
+t1287376669
+s317
+i<Cocoa/Cocoa.h>
+
+N/Users/chintala/Code/Aria/Aria/AriaAppDelegate.m
+c000000004CBBCF1D000000000000016F
+t1287376669
+s367
+i"AriaAppDelegate.h"
+
+N/Users/chintala/Code/Aria/Aria/Aria_Prefix.pch
+c000000004CBBCF1D000000000000008B
+t1287376669
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/chintala/Code/Aria/Aria/English.lproj/InfoPlist.strings
+c000000004CBBCF1D000000000000002D
+t1287376669
+s45
+
+N/Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib
+c000000004CBBCF1D000000000002BB4A
+t1287376669
+s179018
+
+N/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/Aria.LinkFileList
+c000000004CBBCF2300000000000000C7
+t1287376675
+s199
+
+N/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o
+t1287376685
+s21008
+
+N/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o
+t1287376685
+s4976
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app
+t1287376686
+s102
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist
+t1287376675
+s877
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria
+t1287376685
+s14408
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/PkgInfo
+t1287376675
+s8
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287376677
+s92
+
+N/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287376679
+s34337
+
+N/Users/chintala/Code/Aria/Aria/main.m
+c000000004CBBCF1D0000000000000105
+t1287376669
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch
+t1287376684
+s54265616
+
+NAria-Info.plist
+c000000004CBBCF1D00000000000003EA
+t1287376669
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309069475#309069475#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o /Users/chintala/Code/Aria/Aria/AriaAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309069484.888924
+e309069485.149708
+r1
+xCompileC
+xbuild/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o
+x/Users/chintala/Code/Aria/Aria/AriaAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/chintala/Code/Aria/Aria/AriaAppDelegate.m309069484#309069485#0(0"0(0#0#48"/Users/chintala/Code/Aria/Aria/AriaAppDelegate.m8620403712#1326"    cd /Users/chintala/Code/Aria/Aria    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-generated-files.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-own-target-headers.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-all-target-headers.hmap -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-project-headers.hmap -F/Users/chintala/Code/Aria/Aria/build/Debug -I/Users/chintala/Code/Aria/Aria/build/Debug/include -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources/x86_64 -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources -include /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch -c /Users/chintala/Code/Aria/Aria/AriaAppDelegate.m -o /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o0#
+
+CCompileC build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o /Users/chintala/Code/Aria/Aria/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309069484.887481
+e309069485.149351
+r1
+xCompileC
+xbuild/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o
+x/Users/chintala/Code/Aria/Aria/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/chintala/Code/Aria/Aria/main.m309069484#309069485#0(0"0(0#0#37"/Users/chintala/Code/Aria/Aria/main.m8613727040#1304"    cd /Users/chintala/Code/Aria/Aria    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-generated-files.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-own-target-headers.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-all-target-headers.hmap -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-project-headers.hmap -F/Users/chintala/Code/Aria/Aria/build/Debug -I/Users/chintala/Code/Aria/Aria/build/Debug/include -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources/x86_64 -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources -include /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch -c /Users/chintala/Code/Aria/Aria/main.m -o /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib
+s309069475.730187
+e309069479.489731
+r1
+xCompileXIB
+x/Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309069475#309069479#0(0"0(0#0#57"/Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib8645194976#337"    cd /Users/chintala/Code/Aria/Aria    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chintala/Code/Aria/Aria/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s309069475.717695
+e309069477.023010
+r1
+xCopyStringsFile
+x/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309069475#309069477#0(0"0(0#0#62"/Users/chintala/Code/Aria/Aria/English.lproj/InfoPlist.strings8644862048#346"    cd /Users/chintala/Code/Aria/Aria    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj0#
+
+CLd /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria normal x86_64
+s309069485.149797
+e309069485.998346
+r1
+xLd
+x/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria309069485#309069485#0(0"0(0#0#0"8616605088#487"    cd /Users/chintala/Code/Aria/Aria    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chintala/Code/Aria/Aria/build/Debug -F/Users/chintala/Code/Aria/Aria/build/Debug -filelist /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/Aria.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria0#
+
+CProcessInfoPlistFile /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist Aria-Info.plist
+s309069475.661092
+e309069475.717579
+r1
+xProcessInfoPlistFile
+x/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist
+xAria-Info.plist
+lSLF07#2@23"Process Aria-Info.plist309069475#309069475#0(0"0(0#0#46"/Users/chintala/Code/Aria/Aria/Aria-Info.plist30962560973865076#277"    cd /Users/chintala/Code/Aria/Aria    builtin-infoPlistUtility Aria-Info.plist -genpkginfo /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch Aria_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309069479.490116
+e309069484.887138
+r1
+xProcessPCH
+x/var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch
+xAria_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Aria_Prefix.pch309069479#309069484#0(0"0(0#0#46"/Users/chintala/Code/Aria/Aria/Aria_Prefix.pch8641508960#1221"    cd /Users/chintala/Code/Aria/Aria    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-generated-files.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-own-target-headers.hmap -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-all-target-headers.hmap -iquote /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Aria-project-headers.hmap -F/Users/chintala/Code/Aria/Aria/build/Debug -I/Users/chintala/Code/Aria/Aria/build/Debug/include -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources/x86_64 -I/Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/DerivedSources -c /Users/chintala/Code/Aria/Aria/Aria_Prefix.pch -o /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch0#
+
+CTouch /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app
+s309069485.998455
+e309069486.025822
+r1
+xTouch
+x/Users/chintala/Code/Aria/Aria/build/Debug/Aria.app
+lSLF07#2@57"Touch /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app309069485#309069486#0(0"0(0#0#0"8644738048#112"    cd /Users/chintala/Code/Aria/Aria    /usr/bin/touch -c /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app0#
+

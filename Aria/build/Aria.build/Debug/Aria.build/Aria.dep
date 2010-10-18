@@ -1,0 +1,9 @@
+a66b69e627a6d84ea60484878aff3060 ade7587db802e78adee409651488a83a ffffffffffffffffffffffffffffffff 102 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app
+f332cf1c52cb48bb5e3080f68768874c b0e6671eb2a0c514e31617b3e6e725bc ffffffffffffffffffffffffffffffff 14408 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/MacOS/Aria
+000000004cbbcf1d000000000002bb4a d8548e33813c940cbb611f212509a75c ffffffffffffffffffffffffffffffff 34337 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004cbbcf1d000000000000002d 3deb4fd746f1c1eda0430ce3ce7b8eab ffffffffffffffffffffffffffffffff 92 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 0b5b3f22e579c4fc0685cd18394629cf ffffffffffffffffffffffffffffffff 8 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/PkgInfo
+00000000000000000000000000000000 0b5b3f22e579c4fc0685cd18394629cf ffffffffffffffffffffffffffffffff 877 /Users/chintala/Code/Aria/Aria/build/Debug/Aria.app/Contents/Info.plist
+f48b5122d298c3dec16a893df76a5a8b fecdc8f48c248a3cb566d87010f8bef4 ffffffffffffffffffffffffffffffff 21008 /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/AriaAppDelegate.o
+f48b51229e230cc3c16a893df76a5bdc 0dff07e894e215c0eb56588697909de1 ffffffffffffffffffffffffffffffff 4976 /Users/chintala/Code/Aria/Aria/build/Aria.build/Debug/Aria.build/Objects-normal/x86_64/main.o
+000000000c7f6575000000000000016e f48b51229e230cc3c16a893df76a5a52 ffffffffffffffffffffffffffffffff 54265616 /var/folders/Jf/JfZPQi4MFwGgfXDSctfHCk++X0I/-Caches-/com.apple.Xcode.35877/SharedPrecompiledHeaders/Aria_Prefix-dgxjrvibhebwydbwvwrmwhuwdzdw/Aria_Prefix.pch.gch
